@@ -1,0 +1,12 @@
+==================================================
+LDR lib for Polimi sensors' project
+==================================================
+= Daniele d'Arenzo, 2021                         =
+==================================================
+
+
+Devel Notes
+-----------
+This library was developed on vscode, built with avr-gcc on Atmega8 @ 8MHz
+
+
